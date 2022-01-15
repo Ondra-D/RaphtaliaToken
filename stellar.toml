@@ -1,0 +1,15 @@
+VERSION="1.0.0"
+NETWORK_PASSPHRASE='Public Global Stellar Network ; September 2015'
+
+[DOCUMENTATION]
+ORG_NAME= "Raphtalia"
+ORG_URL= "https://token.raphtalia.xyz"
+ORG_LOGO= "https://token.raphtalia.xyz/.well-known/logo.webp"
+ORG_DESCRIPTION="Token for the Raphtalia bot"
+
+[[CURRENCIES]]
+code= "Raphtalia"
+name= "Raphtalia Token"
+issuer= "GBALCDLFS27FGNVNX3L2BS7GWKPFWS2KHCM53KTLVTFI7UY63QUX5K7X"
+desc= "Raphtalia Token on Stellar Blockchain "
+image= "https://token.raphtalia.xyz/.well-known/logo.webp"
